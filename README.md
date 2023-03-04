@@ -30,12 +30,12 @@ docker ps -a
 
 - Criar uma imagem
 ```bash
-docker build -t <nome da imagem> .
+docker build -t <nome_imagem> .
 ``` 
 
 - Executar a imagem
 ```bash
-docker run -it --rm --name=<nome do contêiner> <nome da imagem>
+docker run -it --rm --name=<nome_contêiner> <nome_imagem>
 ```
 
 # Resultados
@@ -47,5 +47,14 @@ Pasta Simples
 
 <span>
     <img src="https://user-images.githubusercontent.com/85804895/222618477-4363487f-8f37-4b54-af3f-83f5fa9f3d7a.png">
+</span>
+
+Pasta Playwright
+<span>
+    <img src="https://user-images.githubusercontent.com/85804895/222929412-518af896-65a9-403d-a0c9-d5521a93fb51.png">
+</span>
+
+<span>
+    <img src="https://user-images.githubusercontent.com/85804895/222929431-2e4fb765-2f46-46ff-9ff0-e35bd4499562.png">
 </span>
 
