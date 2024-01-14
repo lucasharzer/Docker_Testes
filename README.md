@@ -58,7 +58,7 @@ Pasta Playwright
     <img src="https://user-images.githubusercontent.com/85804895/222929431-2e4fb765-2f46-46ff-9ff0-e35bd4499562.png">
 </span>
 
-Pasta Selenium
+Pasta Selenium (Chrome e Firefox)
 <span>
     <img src="https://user-images.githubusercontent.com/85804895/223288680-3b3e83da-f417-40ef-a015-aef7c1a5b21d.png">
 </span>
